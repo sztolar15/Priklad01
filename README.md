@@ -6,3 +6,4 @@
 predpokladany termin odovzdania: 20.4.2016
 
 zmena spravena lokalne
+
