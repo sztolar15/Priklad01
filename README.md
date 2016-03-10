@@ -1,2 +1,2 @@
-# Moja Najoblubenejsia práca
+# Moja Najobľúbenejšia záverečná práca
 ##Komunikácia interaktívnej animácie v LMS Moodle
